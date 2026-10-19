@@ -1,0 +1,33 @@
+{
+  "version": "0.1.4",
+  "originalResource": "sys.paz/topmenu1.png",
+  "originalResourceSHA256": "2f538e188969b11a8ecb2369a8703c82c026be92aedde6a73a3057b0de16f8f4",
+  "clearFlag": "sf.eden_D001 == 1",
+  "flagSource": "scr.paz/D001.sc:177",
+  "crop": [
+    0,
+    0,
+    800,
+    610
+  ],
+  "fitCenter": [
+    0.25,
+    0.5
+  ],
+  "outputSize": [
+    432,
+    514
+  ],
+  "jpegQuality": 87,
+  "newTitleSHA256": "c320b7ea2745cbb777d2b20c40cad4c2dba13124fca974222cc8bf8723ae632d",
+  "normalTitleAndAllExistingAssetsUnchanged": true,
+  "readerDeltaOnlyTitleBindingAndFlag": true,
+  "all8860StoryLocationsUnchanged": true,
+  "singleTitleBackgroundImageWidget": true,
+  "previousClearRecordsSupported": true,
+  "unitTests": {
+    "passed": 24,
+    "failed": 0
+  },
+  "physicalDeviceRetestPending": true
+}

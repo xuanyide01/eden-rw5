@@ -1,0 +1,7 @@
+<script>
+export default {
+  onCreate() { console.log('EDEN_RW5 app created'); },
+  onDestroy() { console.log('EDEN_RW5 app destroyed'); }
+}
+</script>
+

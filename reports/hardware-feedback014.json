@@ -1,0 +1,27 @@
+{
+  "game": "《eden》",
+  "version": "0.1.4",
+  "device": "REDMI Watch 5",
+  "reportedDate": "2026-10-20",
+  "reportedBy": "maintainer",
+  "evidenceType": "user-reported physical-device test",
+  "packageSHA256": "121c1b645282735a3e7ea558b3946be9bdccf5bc10b545cbd0870aa56a53ca89",
+  "firstInstallation": {
+    "watchRebootObserved": true,
+    "successConfirmed": false
+  },
+  "secondInstallation": {
+    "successConfirmed": true
+  },
+  "otherFunctionalIssuesObserved": false,
+  "installationIssueResolved": false,
+  "deviceCrashLogAvailable": false,
+  "summary": "首次安装导致手表重启，再次安装成功；除此之外暂未发现问题。安装阶段重启原因尚未定位，不能将再次安装成功视为问题已经修复。维护者推测可能与安装解包时的峰值内存不足或系统负荷过高有关，尚未经日志或内存测量验证。",
+  "suspectedCause": {
+    "description": "安装解包时峰值内存不足，或系统负荷过高",
+    "attributedTo": "maintainer",
+    "evidenceType": "hypothesis",
+    "confirmed": false,
+    "deviceLogOrMemoryMeasurementAvailable": false
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "stella-watch-compatible-compiler",
+  "private": true,
+  "version": "1.0.0",
+  "devDependencies": {
+    "aiot-toolkit": "1.1.0"
+  }
+}

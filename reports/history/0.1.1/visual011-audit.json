@@ -1,0 +1,28 @@
+{
+  "losslessTextCards": 51,
+  "displayGlyphHeight": [
+    26,
+    27
+  ],
+  "allInkPreserved": true,
+  "noDialogueSeparator": true,
+  "sourceCameraCommands": 24,
+  "sameAspectOversizedImageCorrected": {
+    "scene": "B001",
+    "line": 93,
+    "cursor": 40,
+    "source": "ev016a01_mugai.png",
+    "camera": [
+      0,
+      0
+    ],
+    "size": [
+      1600,
+      1000
+    ],
+    "frame": "f_dd9e091752f08f5ca3eb"
+  },
+  "allTextFrameCursorsPreserved": true,
+  "staticCameraEndpoints": true,
+  "originalPCAnimationTimingClaimed": false
+}

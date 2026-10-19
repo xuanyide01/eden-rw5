@@ -1,0 +1,24 @@
+{
+  "result": "passed",
+  "runtime": "official vela-watch-5.0 generic emulator; not REDMI Watch 5 firmware",
+  "screen": [
+    432,
+    514
+  ],
+  "packageBytes": 10146001,
+  "packageSha256": "121c1b645282735a3e7ea558b3946be9bdccf5bc10b545cbd0870aa56a53ca89",
+  "physicalDeviceTested": false,
+  "checks": [
+    "native system-font text card is readable and dialogue has no white separator",
+    "native full-frame and local-patch story images display",
+    "new native saves 04 and 27 work; baseline 0.1.0 slots 01 and 30 remain untouched",
+    "native auto speed cycles three settings, advances after typing, pauses in menu and slots, resumes, and previous disables it",
+    "reported B002 card and long native card wrap clearly; tapping text card advances; chapter debug code is absent",
+    "oversized 16:10 source uses original 1024x640 camera window",
+    "native route/chapter first pages refresh repeatedly",
+    "native long Chinese paragraph wraps and scrolls; drag does not advance and a fresh tap does",
+    "all 21 native chapter skips follow the original sequence and reach the ending",
+    "native grouped gallery and difference cycling work",
+    "native platform EXIT, process restart and persisted slot 01 reload work"
+  ]
+}

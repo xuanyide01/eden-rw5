@@ -1,0 +1,15 @@
+{
+  "nativeTextCards": 57,
+  "storyOccurrences": 44,
+  "rasterTextCardImages": 0,
+  "sharedBlankTiles": 2,
+  "fontSize": 28,
+  "lineHeight": 38,
+  "maxTextWidth": 384,
+  "reviewedAgainstOriginal": true,
+  "B002RegressionCovered": true,
+  "chapterCodesRemovedFromUI": true,
+  "all8860StoryLocationsUnchanged": true,
+  "sameSourceTextProofAs011": true,
+  "physicalDeviceTested": false
+}

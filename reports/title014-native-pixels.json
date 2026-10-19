@@ -1,0 +1,8 @@
+{
+  "afterUpgradeRGBSHA256": "55748120345401ed5b216c36396e5ccebbec6323c2edace4043d4bb61b47203d",
+  "afterReopenRGBSHA256": "55748120345401ed5b216c36396e5ccebbec6323c2edace4043d4bb61b47203d",
+  "identicalAfterReopen": true,
+  "changedFrom013UnconditionalTitle": true,
+  "packageSHA256": "121c1b645282735a3e7ea558b3946be9bdccf5bc10b545cbd0870aa56a53ca89",
+  "runtime": "official generic Vela virtual watch; physical device retest pending"
+}

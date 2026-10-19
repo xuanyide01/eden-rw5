@@ -1,0 +1,23 @@
+{
+  "source": "scr.paz",
+  "sourceSHA256": "713fd44396e32069bebf372f28ec43a9522d3db01262b7684d0d96b06757bdc7",
+  "executedOriginalCode": false,
+  "freshAndClearedReplay": [
+    {
+      "replayAfterClear": false,
+      "messages": 8860,
+      "sourceSteps": 16360,
+      "endedAt": "D001",
+      "matched": true
+    },
+    {
+      "replayAfterClear": true,
+      "messages": 8860,
+      "sourceSteps": 16327,
+      "endedAt": "D001",
+      "matched": true
+    }
+  ],
+  "unsupportedSourceCommands": 0,
+  "playerChoiceCommands": 0
+}

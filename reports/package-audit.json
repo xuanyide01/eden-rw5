@@ -1,0 +1,21 @@
+{
+  "file": "com.codex.eden.rw5.debug.0.1.4.rpk",
+  "version": "0.1.4",
+  "bytes": 10146001,
+  "expandedBytes": 11652854,
+  "entries": 1004,
+  "sha256": "121c1b645282735a3e7ea558b3946be9bdccf5bc10b545cbd0870aa56a53ca89",
+  "certificateSha256": "4e8e1ee24968b0dad6d0956a7e14d848b38b22a203f39c389a45d8737bdc4585",
+  "zipCRCValid": true,
+  "outerSignatureValid": true,
+  "innerSignatureValid": true,
+  "allFileDigestsValid": true,
+  "signedFiles": 973,
+  "decodedImages": 865,
+  "circularTransparentIcon": true,
+  "allCommonResourcesMatch": true,
+  "watchManifestCorrect": true,
+  "textGlyphCoverage": true,
+  "baselineJPEG": true,
+  "physicalDeviceTested": false
+}

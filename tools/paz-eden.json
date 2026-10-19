@@ -1,0 +1,42 @@
+{
+  "keys": {
+    "bg": [
+      "6fa787c0f60ebe2bbf2528ed7d9ee903e42b59d89b5e8f29900ff01c803d7cf1",
+      "0ff48fd0ad9c1c304705f12c5603b28506af5f6616951b9acfb3647fe2e0177a"
+    ],
+    "bgm": [
+      "f495904b662c30f1c7733a0965fbf2a8ceb0a774febfa15f7923646e2b85f58e",
+      "db18bf0845a7c60092e6baa5b6a3a82a6e166f03f329a38300c0f352216f203a"
+    ],
+    "scr": [
+      "a86ae9834ed53e3a7af5af29d3bbec4fb57e71583130667673c21dd43ef0e372",
+      "9254efb3da3bbf1eeb96fdb829e4401356964ad2f2644fcd923ddec3025e85ed"
+    ],
+    "se": [
+      "292b6d17475fbc38480e550f96c534e0d21bbe16ea0db6a564ede8303155b0b4",
+      "b5e258ef24c190e2d39e7e30b682f8bc2724ce67d84e1047b34bd4989d2e642e"
+    ],
+    "st": [
+      "2088add98e37264787c30964270a4fad36af82e7acec76ccb62d8d4f5274610b",
+      "afdcf4354de38356bae3cfe6a1b2797e4364966d99c9ce06194ab2f927b588a0"
+    ],
+    "sys": [
+      "a7a442f94db0d7c775d1b2484a4e0578db93b81a59089d295e098a3d61ee7fab",
+      "948ed492150b557543c197e4edcbd0674928686710ec81b2279c3309a843a8bb"
+    ],
+    "voice": [
+      "b92c339f937623557bee4335011989ae1d9c0a7c735b39b12088a23ab6b82b96",
+      "ea1dfd3d6f5238f79dc59cc834cbb05359df7dd9a172c3176c3dcd2b86a1f1d5"
+    ],
+    "mov": [
+      "18cefc9bc1aace29ecd028b04167dcf660ff06f78d00063d0cdedcc70344c367",
+      "b5e258ef24c190e2d39e7e30b682f8bc2724ce67d84e1047b34bd4989d2e642e"
+    ]
+  },
+  "types": {
+    "png": "J1WaoGBi",
+    "ogg": "wCCuLx5S",
+    "sc": "63JwEajj",
+    "avi": "F73xvHdo"
+  }
+}

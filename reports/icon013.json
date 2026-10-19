@@ -1,0 +1,22 @@
+{
+  "source": "art/icon-source.jpg",
+  "sourceSHA256": "ce3fb795cc6eb1e24fdf15b058bcdbbbada70993d063651f31482adc712b9898",
+  "sourceSize": [
+    800,
+    800
+  ],
+  "crop": [
+    250,
+    0,
+    750,
+    500
+  ],
+  "output": [
+    192,
+    192
+  ],
+  "circularTransparent": true,
+  "originalPixelsUsed": true,
+  "generatedPreviewUsed": false,
+  "sha256": "aa9ea26b06c344f4a6ac1c09b81eece990daebb5808b17269f719ed933e34292"
+}

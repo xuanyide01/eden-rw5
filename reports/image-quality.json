@@ -1,0 +1,73 @@
+{
+  "method": "PSNR and non-overlapping 8x8 luminance block SSIM on 6 representative original frames; not a perceptual user study",
+  "samples": [
+    {
+      "source": "B001_0003_0007.png",
+      "frame": "f_f78ab9b20d292b0d4431",
+      "size": [
+        264,
+        165
+      ],
+      "patch": false,
+      "PSNR": 31.93177959114085,
+      "blockSSIM": 0.9708852998209683
+    },
+    {
+      "source": "B004_0004_0006.png",
+      "frame": "f_9de52f1e6ae389f2d97d",
+      "size": [
+        264,
+        165
+      ],
+      "patch": true,
+      "PSNR": 31.42178217584413,
+      "blockSSIM": 0.9711140873836416
+    },
+    {
+      "source": "C007_0004_0004.png",
+      "frame": "f_43356a9ce8384c300c90",
+      "size": [
+        264,
+        165
+      ],
+      "patch": true,
+      "PSNR": 30.439805773937003,
+      "blockSSIM": 0.9293077835006276
+    },
+    {
+      "source": "ev087a01.png",
+      "frame": "f_4e614a11004d61b43015",
+      "size": [
+        264,
+        165
+      ],
+      "patch": false,
+      "PSNR": 29.959332155665855,
+      "blockSSIM": 0.9534575447526819
+    },
+    {
+      "source": "ev013b01.png",
+      "frame": "f_a59df6076b2f306ff11d",
+      "size": [
+        264,
+        165
+      ],
+      "patch": false,
+      "PSNR": 32.26409205839955,
+      "blockSSIM": 0.9513836788757912
+    },
+    {
+      "source": "ev005a01.png",
+      "frame": "f_a90dec5faa1bb03931a3",
+      "size": [
+        264,
+        165
+      ],
+      "patch": false,
+      "PSNR": 32.66716363829878,
+      "blockSSIM": 0.9589264041282369
+    }
+  ],
+  "meanBlockSSIM": 0.9558457997436579,
+  "sampleCount": 6
+}

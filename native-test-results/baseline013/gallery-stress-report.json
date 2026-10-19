@@ -1,0 +1,67 @@
+{
+  "result": "passed",
+  "packageSha256": "f22c735e07453e4d7e5a261ba9855244c14e179625cc282720ebabfc60898f81",
+  "runtime": "official generic Vela virtual watch; not REDMI Watch 5 firmware",
+  "physicalDeviceRetestPending": true,
+  "reentries": 12,
+  "differenceCycles": 93,
+  "largestGroup": {
+    "index": 49,
+    "label": "第 12 章 · 场景 5",
+    "differences": 75,
+    "wrapped": true
+  },
+  "warmReentryUsedByteChange": 0,
+  "memorySamples": [
+    {
+      "label": "title-before",
+      "total": 130222076,
+      "used": 12876616,
+      "free": 117345460,
+      "maxUsed": 13230912,
+      "raw": "      total       used       free    maxused    maxfree  nused  nfree name\r\n  130222076   12876616  117345460   13230912  116843064    769    206 Umem\r\n"
+    },
+    {
+      "label": "title-after-6",
+      "total": 130222076,
+      "used": 13913368,
+      "free": 116308708,
+      "maxUsed": 14336800,
+      "raw": "      total       used       free    maxused    maxfree  nused  nfree name\r\n  130222076   13913368  116308708   14336800  115738264    795    214 Umem\r\n"
+    },
+    {
+      "label": "title-after-12",
+      "total": 130222076,
+      "used": 13913368,
+      "free": 116308708,
+      "maxUsed": 14336800,
+      "raw": "      total       used       free    maxused    maxfree  nused  nfree name\r\n  130222076   13913368  116308708   14336800  115738264    795    215 Umem\r\n"
+    },
+    {
+      "label": "largest-group-first-image",
+      "total": 130222076,
+      "used": 14567520,
+      "free": 115654556,
+      "maxUsed": 15057312,
+      "raw": "      total       used       free    maxused    maxfree  nused  nfree name\r\n  130222076   14567520  115654556   15057312  115009544    793    216 Umem\r\n"
+    },
+    {
+      "label": "largest-group-after-wrap",
+      "total": 130222076,
+      "used": 14404280,
+      "free": 115817796,
+      "maxUsed": 15116320,
+      "raw": "      total       used       free    maxused    maxfree  nused  nfree name\r\n  130222076   14404280  115817796   15116320  114032872    781    217 Umem\r\n"
+    },
+    {
+      "label": "title-after-stress",
+      "total": 130222076,
+      "used": 14448952,
+      "free": 115773124,
+      "maxUsed": 15116320,
+      "raw": "      total       used       free    maxused    maxfree  nused  nfree name\r\n  130222076   14448952  115773124   15116320  113144664    801    217 Umem\r\n"
+    }
+  ],
+  "sourceAtlasRGBAOnlyBudget": 1146880,
+  "realDevicePeakNotMeasured": true
+}

@@ -1,0 +1,475 @@
+{
+  "titleResourcesUnchanged": true,
+  "circularIconFromUserOriginal": true,
+  "all8860StoryLocationsUnchanged": true,
+  "galleryContentPreserved": true,
+  "fourPictureFirstVariantPreview": true,
+  "previewTotalBytes": 316673,
+  "galleryMemory": {
+    "groups": 295,
+    "variants": 2341,
+    "pages": 74,
+    "pageSize": 4,
+    "pageFiles": [
+      {
+        "file": "0.txt",
+        "bytes": 1828,
+        "groups": 4,
+        "variants": 66
+      },
+      {
+        "file": "1.txt",
+        "bytes": 1556,
+        "groups": 4,
+        "variants": 55
+      },
+      {
+        "file": "2.txt",
+        "bytes": 1146,
+        "groups": 4,
+        "variants": 39
+      },
+      {
+        "file": "3.txt",
+        "bytes": 1806,
+        "groups": 4,
+        "variants": 65
+      },
+      {
+        "file": "4.txt",
+        "bytes": 2531,
+        "groups": 4,
+        "variants": 94
+      },
+      {
+        "file": "5.txt",
+        "bytes": 2906,
+        "groups": 4,
+        "variants": 109
+      },
+      {
+        "file": "6.txt",
+        "bytes": 1206,
+        "groups": 4,
+        "variants": 41
+      },
+      {
+        "file": "7.txt",
+        "bytes": 1781,
+        "groups": 4,
+        "variants": 64
+      },
+      {
+        "file": "8.txt",
+        "bytes": 2106,
+        "groups": 4,
+        "variants": 77
+      },
+      {
+        "file": "9.txt",
+        "bytes": 2260,
+        "groups": 4,
+        "variants": 83
+      },
+      {
+        "file": "10.txt",
+        "bytes": 3135,
+        "groups": 4,
+        "variants": 118
+      },
+      {
+        "file": "11.txt",
+        "bytes": 2035,
+        "groups": 4,
+        "variants": 74
+      },
+      {
+        "file": "12.txt",
+        "bytes": 4510,
+        "groups": 4,
+        "variants": 173
+      },
+      {
+        "file": "13.txt",
+        "bytes": 3185,
+        "groups": 4,
+        "variants": 120
+      },
+      {
+        "file": "14.txt",
+        "bytes": 1085,
+        "groups": 4,
+        "variants": 36
+      },
+      {
+        "file": "15.txt",
+        "bytes": 753,
+        "groups": 4,
+        "variants": 24
+      },
+      {
+        "file": "16.txt",
+        "bytes": 746,
+        "groups": 4,
+        "variants": 25
+      },
+      {
+        "file": "17.txt",
+        "bytes": 496,
+        "groups": 4,
+        "variants": 15
+      },
+      {
+        "file": "18.txt",
+        "bytes": 796,
+        "groups": 4,
+        "variants": 27
+      },
+      {
+        "file": "19.txt",
+        "bytes": 1071,
+        "groups": 4,
+        "variants": 38
+      },
+      {
+        "file": "20.txt",
+        "bytes": 396,
+        "groups": 4,
+        "variants": 11
+      },
+      {
+        "file": "21.txt",
+        "bytes": 646,
+        "groups": 4,
+        "variants": 21
+      },
+      {
+        "file": "22.txt",
+        "bytes": 1021,
+        "groups": 4,
+        "variants": 36
+      },
+      {
+        "file": "23.txt",
+        "bytes": 496,
+        "groups": 4,
+        "variants": 15
+      },
+      {
+        "file": "24.txt",
+        "bytes": 871,
+        "groups": 4,
+        "variants": 30
+      },
+      {
+        "file": "25.txt",
+        "bytes": 846,
+        "groups": 4,
+        "variants": 29
+      },
+      {
+        "file": "26.txt",
+        "bytes": 671,
+        "groups": 4,
+        "variants": 22
+      },
+      {
+        "file": "27.txt",
+        "bytes": 871,
+        "groups": 4,
+        "variants": 30
+      },
+      {
+        "file": "28.txt",
+        "bytes": 396,
+        "groups": 4,
+        "variants": 11
+      },
+      {
+        "file": "29.txt",
+        "bytes": 971,
+        "groups": 4,
+        "variants": 34
+      },
+      {
+        "file": "30.txt",
+        "bytes": 746,
+        "groups": 4,
+        "variants": 25
+      },
+      {
+        "file": "31.txt",
+        "bytes": 721,
+        "groups": 4,
+        "variants": 24
+      },
+      {
+        "file": "32.txt",
+        "bytes": 1496,
+        "groups": 4,
+        "variants": 55
+      },
+      {
+        "file": "33.txt",
+        "bytes": 571,
+        "groups": 4,
+        "variants": 18
+      },
+      {
+        "file": "34.txt",
+        "bytes": 771,
+        "groups": 4,
+        "variants": 26
+      },
+      {
+        "file": "35.txt",
+        "bytes": 821,
+        "groups": 4,
+        "variants": 28
+      },
+      {
+        "file": "36.txt",
+        "bytes": 571,
+        "groups": 4,
+        "variants": 18
+      },
+      {
+        "file": "37.txt",
+        "bytes": 371,
+        "groups": 4,
+        "variants": 10
+      },
+      {
+        "file": "38.txt",
+        "bytes": 621,
+        "groups": 4,
+        "variants": 20
+      },
+      {
+        "file": "39.txt",
+        "bytes": 621,
+        "groups": 4,
+        "variants": 20
+      },
+      {
+        "file": "40.txt",
+        "bytes": 871,
+        "groups": 4,
+        "variants": 30
+      },
+      {
+        "file": "41.txt",
+        "bytes": 796,
+        "groups": 4,
+        "variants": 27
+      },
+      {
+        "file": "42.txt",
+        "bytes": 921,
+        "groups": 4,
+        "variants": 32
+      },
+      {
+        "file": "43.txt",
+        "bytes": 521,
+        "groups": 4,
+        "variants": 16
+      },
+      {
+        "file": "44.txt",
+        "bytes": 396,
+        "groups": 4,
+        "variants": 11
+      },
+      {
+        "file": "45.txt",
+        "bytes": 546,
+        "groups": 4,
+        "variants": 17
+      },
+      {
+        "file": "46.txt",
+        "bytes": 346,
+        "groups": 4,
+        "variants": 9
+      },
+      {
+        "file": "47.txt",
+        "bytes": 496,
+        "groups": 4,
+        "variants": 15
+      },
+      {
+        "file": "48.txt",
+        "bytes": 396,
+        "groups": 4,
+        "variants": 11
+      },
+      {
+        "file": "49.txt",
+        "bytes": 421,
+        "groups": 4,
+        "variants": 12
+      },
+      {
+        "file": "50.txt",
+        "bytes": 671,
+        "groups": 4,
+        "variants": 22
+      },
+      {
+        "file": "51.txt",
+        "bytes": 496,
+        "groups": 4,
+        "variants": 15
+      },
+      {
+        "file": "52.txt",
+        "bytes": 846,
+        "groups": 4,
+        "variants": 29
+      },
+      {
+        "file": "53.txt",
+        "bytes": 421,
+        "groups": 4,
+        "variants": 12
+      },
+      {
+        "file": "54.txt",
+        "bytes": 296,
+        "groups": 4,
+        "variants": 7
+      },
+      {
+        "file": "55.txt",
+        "bytes": 321,
+        "groups": 4,
+        "variants": 8
+      },
+      {
+        "file": "56.txt",
+        "bytes": 646,
+        "groups": 4,
+        "variants": 21
+      },
+      {
+        "file": "57.txt",
+        "bytes": 571,
+        "groups": 4,
+        "variants": 18
+      },
+      {
+        "file": "58.txt",
+        "bytes": 571,
+        "groups": 4,
+        "variants": 18
+      },
+      {
+        "file": "59.txt",
+        "bytes": 296,
+        "groups": 4,
+        "variants": 7
+      },
+      {
+        "file": "60.txt",
+        "bytes": 571,
+        "groups": 4,
+        "variants": 18
+      },
+      {
+        "file": "61.txt",
+        "bytes": 596,
+        "groups": 4,
+        "variants": 19
+      },
+      {
+        "file": "62.txt",
+        "bytes": 321,
+        "groups": 4,
+        "variants": 8
+      },
+      {
+        "file": "63.txt",
+        "bytes": 260,
+        "groups": 4,
+        "variants": 5
+      },
+      {
+        "file": "64.txt",
+        "bytes": 279,
+        "groups": 4,
+        "variants": 4
+      },
+      {
+        "file": "65.txt",
+        "bytes": 274,
+        "groups": 4,
+        "variants": 4
+      },
+      {
+        "file": "66.txt",
+        "bytes": 253,
+        "groups": 4,
+        "variants": 4
+      },
+      {
+        "file": "67.txt",
+        "bytes": 254,
+        "groups": 4,
+        "variants": 4
+      },
+      {
+        "file": "68.txt",
+        "bytes": 379,
+        "groups": 4,
+        "variants": 9
+      },
+      {
+        "file": "69.txt",
+        "bytes": 612,
+        "groups": 4,
+        "variants": 19
+      },
+      {
+        "file": "70.txt",
+        "bytes": 787,
+        "groups": 4,
+        "variants": 26
+      },
+      {
+        "file": "71.txt",
+        "bytes": 637,
+        "groups": 4,
+        "variants": 20
+      },
+      {
+        "file": "72.txt",
+        "bytes": 687,
+        "groups": 4,
+        "variants": 22
+      },
+      {
+        "file": "73.txt",
+        "bytes": 510,
+        "groups": 3,
+        "variants": 16
+      }
+    ],
+    "maxReadBytes": 4510,
+    "listImageWidgets": 1,
+    "maxSimultaneousCGImages": 2,
+    "maxLayerPixels": 143360,
+    "maxTwoLayerRGBABytes": 1146880,
+    "realDeviceRetestPending": true,
+    "oldCatalogReadBytes": 251842,
+    "catalogReadReductionPercent": 98.21,
+    "oldListMaxLayers": 8,
+    "sourceImageBudgetExcludesRuntimeOverheads": true,
+    "listStyle": "four-picture grid",
+    "firstVariantPreviewOnly": true,
+    "previewSourceRGBABytes": 145728,
+    "previewRenderedRGBABytes": 582912
+  },
+  "physicalDeviceRetestPending": true
+}

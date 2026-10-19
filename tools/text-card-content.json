@@ -1,0 +1,401 @@
+{
+  "B001_7yearsago.png": {
+    "text": "七年前——",
+    "background": "#000000",
+    "foreground": "#ffffff",
+    "sourceSHA256": "32293c5589cedab94fb6d759f0114dc5ff5b100f90d661aef7ed4ccaabd75769",
+    "reviewedAgainstOriginal": true
+  },
+  "B001_kokokano.png": {
+    "text": "这里是“她”生活的地方",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "64a67133a73361eae18f797a81f79214e1888f9e760d5f5e8dd41a930daf9892",
+    "reviewedAgainstOriginal": true
+  },
+  "B002_chikyuda.png": {
+    "text": "逃离地球计划——",
+    "background": "#000000",
+    "foreground": "#ffffff",
+    "sourceSHA256": "b830b1e2565bfa418b0a83194e129504c3683671948a0b6f4f342a44680fd50b",
+    "reviewedAgainstOriginal": true
+  },
+  "B002_konohoshi.png": {
+    "text": "你知道吗，这个星球即将迎来毁灭",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "ffe417641ecf9802269c8b0dc81dddac82a3e66cff4d098cacd3eb07c9bc302a",
+    "reviewedAgainstOriginal": true
+  },
+  "B002_sion.png": {
+    "text": "最强的菲利克斯，诗音",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "6fd5dcfc901affeb7a0ae0ed706212295c1d29db101ed2497a969e87caf87011",
+    "reviewedAgainstOriginal": true
+  },
+  "B002_watashihane.png": {
+    "text": "我想在这里亲眼见证世界的终结——",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "97d19d3ed552b5fd8abcd6c3db40869cfe741f2c5774293fc0b59d89f20397c8",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_A001_001.png": {
+    "text": "我不能停下双手",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "c5ef37dab60ca5698997d111651e7148fdce6ca1883f6d48fa854c2d6bdd96cc",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_A001_002.png": {
+    "text": "我不断对自己说道",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "4b6ab784da618aace89d39afa983c346709c0e62cc89cbc66359e9e55dad7de6",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_A001_003.png": {
+    "text": "哪怕只是片刻的停歇，我的心便会不由自主地沉浸在往昔之中",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "7085cd2d739e16c976e906b8815e981b9386e172195fe6a3e4fbaa010c64b2ab",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_A001_004.png": {
+    "text": "那段回忆温馨、美丽，又包含爱意——也让人痛惜",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "5917f129b20eaf41111d445a871a7a927bdd55b27377e94e01038b39ba0cb466",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_A001_005.png": {
+    "text": "一旦沉浸其中，或许我将再也无法回到现实",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "afe4c358b91a938ecd36232feb9c07b9d12c2fb883ac095d764675f91372c05b",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_A001_006.png": {
+    "text": "所以，我无法停下双手的动作",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "e147cb5557f2f3f488a87531fa65401536c4cf5b0c5df174741846199fc8338e",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_A001_008.png": {
+    "text": "我放空大脑，不断扩大着地面的坑洞",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "8ab1ca2ae474cbc2f03cd09ee4314bcdc66fb1231fbed5100d4717ac9d324187",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_A001_009.png": {
+    "text": "什么也不去想——",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "85b3117a70031afb9804db7d6b4fd055a0604e600a28c77f1de5c200cb56d4d9",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_A001_010.png": {
+    "text": "但是，我做不到",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "01aa999cef62aec0c5edf59fb73899359c9a1c7f75aee87db39d314044d668c2",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_A001_014.png": {
+    "text": "我的心，飞了回去",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "d99a68a7cf57179c9bac88c74a42f9956e38db20df4443f0b47d007fc1303486",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_A001_015.png": {
+    "text": "划过我心中的是普通的、单纯的一日光景",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "5f2f31d7c37c2a6526be06282a66b2a608c43742ec2aa17102174640f86ad854",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_A001_016.png": {
+    "text": "那个时候，她——",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "4a153ab9b19294ab3367d5c5b58dea720dc300f59964c954b4e704675d7325ec",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_A001_017.png": {
+    "text": "我缓缓闭上双眼",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "e4df68100c28468eaab4caa9ff561c7159e3a655a34d546e0312068f3ce033f3",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_A001_018.png": {
+    "text": "几个月以前",
+    "background": "#000000",
+    "foreground": "#ffffff",
+    "sourceSHA256": "7f68f4b3a1a1b7b21a7c17f6be0d9c23e84ef2a79e238449c19a655fd10aa97a",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_A001_019.png": {
+    "text": "地球上生活着许多人",
+    "background": "#000000",
+    "foreground": "#ffffff",
+    "sourceSHA256": "3ff3ec262ffb38dd28af028dcb9e98248c43fd732a28a9c8d085d98dc6072682",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_A001_020.png": {
+    "text": "那个时候，她——",
+    "background": "#000000",
+    "foreground": "#ffffff",
+    "sourceSHA256": "31641737978f8e77225bcb2e1a64155f55a675eff35722225fbd3692eeb560a0",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_B003_001.png": {
+    "text": "诗音——",
+    "background": "#000000",
+    "foreground": "#ffffff",
+    "sourceSHA256": "463be32d02716869af82255e192c1885cf6e5225f48e3ea3b5872ec4df0e61b4",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_B004_001.png": {
+    "text": "这都是为了保护诗音",
+    "background": "#000000",
+    "foreground": "#ffffff",
+    "sourceSHA256": "b098f9161e96fa42c77474b66dac260ad919155d20f349d8694d0b7ce5822aa4",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_B004_002.png": {
+    "text": "这也是为了夏目",
+    "background": "#000000",
+    "foreground": "#ffffff",
+    "sourceSHA256": "95a32881e0022b6b1dc6ce7531686b63dcdec5e2fdd62cfe001addb812aba994",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_B004_004.png": {
+    "text": "要不了多久，这里就会被废弃",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "fd37e33db8434f7bf8477ce2ecf9d5da1674727770c2d7609f9954271f8979b1",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_B004_005.png": {
+    "text": "也想留在这颗星球上，等待落幕的时刻",
+    "background": "#000000",
+    "foreground": "#ffffff",
+    "sourceSHA256": "f2eae8a5283ff6690ebad700dcfeba586b3a755bca38591530cf4067b5fa66d1",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_B005_001.png": {
+    "text": "我只想见证这个世界——",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "be28a00218b03aa47aca38bd5d3c6787960c9a01931885f63938b30b89414a47",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_B005_002.png": {
+    "text": "好想看看这个世界，好想在广阔的天空下奔跑，一旦想到这里，我便无法停下自身的思绪——",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "2d58de30fa72371e218a3bf090d3dfec1b4de9f4f917bb86422df2667e1214a9",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_B005_003.png": {
+    "text": "哪怕只是转瞬即逝的片刻也无妨，只要能微笑着伫立在柔风当中……",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "c73a5ac2c36d69b91b7264d912ca4f972827b79351f4c8c4ae5d8c0779caf99d",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_B005_004.png": {
+    "text": "那我就能跟这个世界说再见了。",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "4adf34a2c0fa8655ce2ad5cffc68f0fcdb4ec776bcff32a3c1335f4584b871bf",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_B005_005.png": {
+    "text": "够了",
+    "background": "#000000",
+    "foreground": "#ffffff",
+    "sourceSHA256": "4efe7c395e4f691ad2dcdbc764eb4a3b0b6fb19e6dca17d5fe797cf1b0daf01d",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_B005_006.png": {
+    "text": "就让我——",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "60e4a2b8336f9b1983c37425cb569dd79106cd6c860873a72f0075d2acd91835",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_B006_001.png": {
+    "text": "所以，我很抱歉",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "1bbd70755fa34a8b885bfa1c513a88071cde5528846af3e19d3c3e5e93b30ad0",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_C001_001.png": {
+    "text": "某一日，我听到了世界崩溃的声音。",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "195ac7e1ce0c5ffa584a0e60e6d260b0e118d2dc42d79da6e4f0106aa7d13fd0",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_C001_002.png": {
+    "text": "通往未来的道路破碎不堪，困顿难行，我曾经无数次跌倒。",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "5da1cc07abd1600235598dfcbb428bcab515250238367885e1576e66d975150d",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_C001_003.png": {
+    "text": "然而，我能一次又一次地站起来。",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "4c66a7fffad608780940ffa56e088bb3782b0cc09c53be4f9390da097423893d",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_C001_004.png": {
+    "text": "因为有你在，不论多少次我都会站起来。",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "b3a302f37da2618790ee18b5497dcd9a219c608083d8ca1e778518d8350fa071",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_C001_005.png": {
+    "text": "我将无所畏惧，砥砺奋进，直到世界终结的那一天。",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "0156140cce05979ccc3dc40dceee7871fa47e16272054a41369c238d7ef551f4",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_C007_001.png": {
+    "text": "原本为守护他人而开始战斗，如今却失去了理应守护的对象。",
+    "background": "#000000",
+    "foreground": "#ffffff",
+    "sourceSHA256": "3b0bafc25fee323c391a2d76c9c60e52f4892232ba2870588a160d70a2d350c2",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_C007_002.png": {
+    "text": "我们现在的所作所为，不过是为人们带去伤痛而已。",
+    "background": "#000000",
+    "foreground": "#ffffff",
+    "sourceSHA256": "97cfe9bd6298c8c063ca478dd631e2358661bd4d63f5864d2a7288b52e3d9330",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_C009_001.png": {
+    "text": "好想再见他一面啊",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "8d76eeda9526884e76a04c54b11a331a8ec6b527497e7ad0c96969981bb98904",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_C010_001.png": {
+    "text": "紧接着，最后的一段故事拉开了帷幕。",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "eb632d4390e300510197590dde2f96c7911e53a4925818c2dc66999dcd51428a",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_C010_002.png": {
+    "text": "从真夜离去的那一天开始，诗音的身体状况肉眼可见地逐渐恶化。",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "551c64b71d2b5037a6df1532a53b21fcb1839db069afce283eea561263e12215",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_C010_003.png": {
+    "text": "稍微活动一下便会发烧，几乎没有食欲，睡眠时间很久，也睡的很深。",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "f7bbd9995f827047ba5240241de1c02ed27b9c1ecb87bae54c6853cca0a1c65c",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_C010_004.png": {
+    "text": "经常一整天都躺在床上。",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "ac79c5846d12e38b405667c96152105191f3d8cca5ce8928cd34f6ade09e751c",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_C010_005.png": {
+    "text": "即便如此，诗音却从未流露出软弱的一面。",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "83d9041f96906d846ce6b83ecf628251b1f62bb3c04aa9c6ed2e4d8c8088a364",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_C010_006.png": {
+    "text": "她表现得很平静，像是在等待着什么似的……",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "694d97e3ac5ca88cd35d1b3302d00e7a07f291acf268a0ffef726f8440129ae2",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_C011_001.png": {
+    "text": "该做的事，都已经做完了。",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "ba2e3660e9eb366804db1bbf5365db5461847aba11adaed44e54f94cbd7b0acf",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_C011_002.png": {
+    "text": "剩下的只需等待帷幕的落下。",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "08553c0b66b21e0e45d85231c76928e427324eca64c31768fac7971f768ec70c",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_C011_003.png": {
+    "text": "与她曾经活跃的舞台不同，这一次的舞台没有谢幕。",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "9d21ff37a2ff187c382791a5f6cbdf9d1a986119497f93cf6d7abc9e3eff5034",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_C011_004.png": {
+    "text": "直至那压倒性的力量为一切带来终结的时刻降临为止，我们能做的只有等待。",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "f93a07e735c13ff5cd284ad944da8e1e82ce56429bb1380ed4aa78c49ed9f108",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_C011_005.png": {
+    "text": "目送最后一班飞船离开的那天夜里，诗音倒下了——",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "9de1ddee4b20e1af41626a229b66417a8de9b4e3012af082031d89e8407aea54",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_C011_006.png": {
+    "text": "随后的三天她都没有醒来。",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "91614944f52f3b9766623d1d244005d88348d6a6fbffb9fa40dd954062eeeb2d",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_C012_001.png": {
+    "text": "直至她陷入永久沉睡的那一天到来为止……",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "84f0b1168daef31c6820ccb5259cf11b2431bc33a10b4292d250f42df90910c6",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_C012_002.png": {
+    "text": "世界啊，不要毁灭——",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "f2548174cf4bea22f45824c33538b1219fea38046b83047eaa8b685c9ad9517c",
+    "reviewedAgainstOriginal": true
+  },
+  "mozi_C013_001.png": {
+    "text": "然后，她……",
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "sourceSHA256": "ca4a9519eb38d5cdeff7a757b7b0e9e04677f303d1a4b264659ef6ede775b1d3",
+    "reviewedAgainstOriginal": true
+  }
+}

@@ -1,0 +1,6 @@
+Pillow>=10
+numpy>=1.24
+pycryptodome>=3.20
+fonttools>=4.50
+cryptography>=41
+zopfli>=0.2.3

@@ -1,0 +1,10 @@
+{
+  "result": "passed",
+  "coldBootAndOverwriteInstall": true,
+  "persistedSlots": [
+    1,
+    30
+  ],
+  "physicalDeviceTested": false,
+  "packageSHA256": "f22c735e07453e4d7e5a261ba9855244c14e179625cc282720ebabfc60898f81"
+}
