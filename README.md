@@ -116,3 +116,8 @@ python tools/audit-package.py
 - 字体 Noto Sans Mono CJK SC：SIL OFL 1.1，许可见 `licenses/NotoSansCJK-OFL.txt`。
 
 自编阅读器及转换代码采用 MIT；这不授予原游戏素材、译文、原作标志、系统字体或第三方工具的再授权。源码压缩包排除原始 PAZ、原游戏 EXE/DLL、私钥、依赖目录、构建缓存和模拟器用户数据。
+
+
+## 联系方式
+
+问题反馈与交流：[shining237841@gmail.com](mailto:shining237841@gmail.com)。
