@@ -1,0 +1,296 @@
+{
+  "archived_at": "2026-11-01",
+  "repository": "xuanyide01/eden-rw5",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "files": [
+        {
+          "name": "eden-RW5-0.1.0-SHA256.txt",
+          "bytes": 748,
+          "sha256": "7a38a81c76556dc728b85240cca9744457e13d8125fb2c9f6fc3718b9b53b748"
+        },
+        {
+          "name": "eden-RW5-0.1.0-剧情.png",
+          "bytes": 116648,
+          "sha256": "b1849e2df2390fa291753b4d49e4f7071ab6c312ef8d74084e71045f2d6b9614"
+        },
+        {
+          "name": "eden-RW5-0.1.0-安装说明.md",
+          "bytes": 1787,
+          "sha256": "ff3cb142531bda4b3a6ef56576e53f1aee3c4c43056b5b58a04aa3bf60a6ac15"
+        },
+        {
+          "name": "eden-RW5-0.1.0-标题.png",
+          "bytes": 177270,
+          "sha256": "39a946a8f50f680bc30fd76a5a99ef7b92c0dcb93400e58d8c7f63bdb93e8ab9"
+        },
+        {
+          "name": "eden-RW5-0.1.0-检查报告.json",
+          "bytes": 4711,
+          "sha256": "9ec0831f884a9618de33235bcd51305eeedba0e19fa5558215da2927119297f3"
+        },
+        {
+          "name": "eden-RW5-0.1.0-源码.zip",
+          "bytes": 13356463,
+          "sha256": "00ff35a0b5d7d425bdfca66542ef80d40da8e5bac0baa05ac82cfc7432437b6d"
+        },
+        {
+          "name": "eden-RW5-0.1.0-画质对比.png",
+          "bytes": 1953505,
+          "sha256": "6af4072eac628f99989da06a09615a80c08bb04a5ae746c9fc5777c38fc9592f"
+        },
+        {
+          "name": "eden-RW5-0.1.0.bin",
+          "bytes": 9800657,
+          "sha256": "6ef31209322be8413ff0ee4dd0cafbdde77cc805a634f10abb21a35abdbe7788"
+        },
+        {
+          "name": "eden-RW5-0.1.0.rpk",
+          "bytes": 9800657,
+          "sha256": "6ef31209322be8413ff0ee4dd0cafbdde77cc805a634f10abb21a35abdbe7788"
+        }
+      ]
+    },
+    {
+      "tag": "v0.1.1",
+      "files": [
+        {
+          "name": "eden-RW5-0.1.1-SHA256.txt",
+          "bytes": 1158,
+          "sha256": "0390c7e457d518638cbd13522067324743582712c36b3d57b518327cb52bb213"
+        },
+        {
+          "name": "eden-RW5-0.1.1-剧情.png",
+          "bytes": 116361,
+          "sha256": "9b6604d2b5276523a7cd2f2ceb2c9bda4f7092a90dbce35c90cdd49f9e0c3a5d"
+        },
+        {
+          "name": "eden-RW5-0.1.1-字卡实屏.png",
+          "bytes": 12965,
+          "sha256": "25c0e72dceee399b91d420a57d77f27faf97f78e03d5e68b2db6f53ef891ceae"
+        },
+        {
+          "name": "eden-RW5-0.1.1-字卡对比.png",
+          "bytes": 130338,
+          "sha256": "8c16b9e4778cae0615754c137fb15302997ba367f1aea9c227e56f0655bf9894"
+        },
+        {
+          "name": "eden-RW5-0.1.1-安装说明.md",
+          "bytes": 2927,
+          "sha256": "c07f3b60bd6ea175fd6e882bf018a3f3bacc98f90b5e68ca7cf948b3e49984a3"
+        },
+        {
+          "name": "eden-RW5-0.1.1-标题.png",
+          "bytes": 177270,
+          "sha256": "39a946a8f50f680bc30fd76a5a99ef7b92c0dcb93400e58d8c7f63bdb93e8ab9"
+        },
+        {
+          "name": "eden-RW5-0.1.1-检查报告.json",
+          "bytes": 5773,
+          "sha256": "8af425461b32aa77a6a7be799ad2188d258e336519ed25118b7797b5e0a4b42f"
+        },
+        {
+          "name": "eden-RW5-0.1.1-源码.zip",
+          "bytes": 13862846,
+          "sha256": "2cf75acff5aa7f4e7eb085c318f3c61a46e1959ce7fb960a564fd1c61e4e9033"
+        },
+        {
+          "name": "eden-RW5-0.1.1-画质对比.png",
+          "bytes": 1953505,
+          "sha256": "6af4072eac628f99989da06a09615a80c08bb04a5ae746c9fc5777c38fc9592f"
+        },
+        {
+          "name": "eden-RW5-0.1.1-画面与镜头说明.md",
+          "bytes": 2881,
+          "sha256": "b6f92de46c68802a2bcd242803c509b3bb1c3908574d566341a1e5525e546f72"
+        },
+        {
+          "name": "eden-RW5-0.1.1-自动播放菜单.png",
+          "bytes": 28273,
+          "sha256": "a9822c08e4464f069b17760733ceefc7ebc355b3fee3f6a913c2afcefa1a591e"
+        },
+        {
+          "name": "eden-RW5-0.1.1.bin",
+          "bytes": 9995473,
+          "sha256": "529c2d3e4e748051634aacce5bc900cd2faa5d4b79b0fff084f4c5240fd7ac43"
+        },
+        {
+          "name": "eden-RW5-0.1.1.rpk",
+          "bytes": 9995473,
+          "sha256": "529c2d3e4e748051634aacce5bc900cd2faa5d4b79b0fff084f4c5240fd7ac43"
+        }
+      ]
+    },
+    {
+      "tag": "v0.1.2",
+      "files": [
+        {
+          "name": "eden-RW5-0.1.2-SHA256.txt",
+          "bytes": 1260,
+          "sha256": "5266438f2531ca62564b91df4770334037786563aead167a28988d668c321353"
+        },
+        {
+          "name": "eden-RW5-0.1.2-剧情.png",
+          "bytes": 115307,
+          "sha256": "3778a5d82aa12edfe2a52b6dfb6b12065b9ac30646bf1a017f747bf6695b87a1"
+        },
+        {
+          "name": "eden-RW5-0.1.2-字卡实屏.png",
+          "bytes": 22772,
+          "sha256": "9cd2595f06235f7ca8a93c5c89d0ab50c44c2741c31966707a0c868daaf8fca8"
+        },
+        {
+          "name": "eden-RW5-0.1.2-字卡对比.png",
+          "bytes": 41626,
+          "sha256": "a9e34c1b720ca83b705ba9c4a932948cd4da28558d67d2c07056bb68f93cccb9"
+        },
+        {
+          "name": "eden-RW5-0.1.2-安装说明.md",
+          "bytes": 3121,
+          "sha256": "97b2e78f1bd2400211dc0a2e94b65adb5e930c210cc04ccab08d1d9a0dc5a040"
+        },
+        {
+          "name": "eden-RW5-0.1.2-标题.png",
+          "bytes": 177270,
+          "sha256": "39a946a8f50f680bc30fd76a5a99ef7b92c0dcb93400e58d8c7f63bdb93e8ab9"
+        },
+        {
+          "name": "eden-RW5-0.1.2-检查报告.json",
+          "bytes": 5760,
+          "sha256": "2aab6d27372fcb8a32f8e86dceb296710295b22f413cef5f9aa5d6ec9de33f0c"
+        },
+        {
+          "name": "eden-RW5-0.1.2-源码.zip",
+          "bytes": 13777260,
+          "sha256": "2c97e9d5a84647bccebcc5fb6daf089655926e4252581f548b39153fb518befb"
+        },
+        {
+          "name": "eden-RW5-0.1.2-画质对比.png",
+          "bytes": 1953505,
+          "sha256": "6af4072eac628f99989da06a09615a80c08bb04a5ae746c9fc5777c38fc9592f"
+        },
+        {
+          "name": "eden-RW5-0.1.2-画面与镜头说明.md",
+          "bytes": 2553,
+          "sha256": "4b44189eb7e7a74b78cac4e7b34fc78b456f5f8992724f511d570aa983662cef"
+        },
+        {
+          "name": "eden-RW5-0.1.2-自动播放菜单.png",
+          "bytes": 28273,
+          "sha256": "a9822c08e4464f069b17760733ceefc7ebc355b3fee3f6a913c2afcefa1a591e"
+        },
+        {
+          "name": "eden-RW5-0.1.2-长字卡实屏.png",
+          "bytes": 41557,
+          "sha256": "8f57ff0e15947590f05e63fe3170b7c1e0d79cda984b98f0e268dc7b8dc58710"
+        },
+        {
+          "name": "eden-RW5-0.1.2.bin",
+          "bytes": 9759169,
+          "sha256": "a013d9077ec4b777e6352b279e26cea84b7d60f2efc79e1bb95235996104b3c0"
+        },
+        {
+          "name": "eden-RW5-0.1.2.rpk",
+          "bytes": 9759169,
+          "sha256": "a013d9077ec4b777e6352b279e26cea84b7d60f2efc79e1bb95235996104b3c0"
+        }
+      ]
+    },
+    {
+      "tag": "v0.1.3",
+      "files": [
+        {
+          "name": "eden-RW5-0.1.3-SHA256.txt",
+          "bytes": 1655,
+          "sha256": "e58215c373d6961717b238ae2e67092fe2c1ab5cef3b00b85a859a746dc75211"
+        },
+        {
+          "name": "eden-RW5-0.1.3-剧情.png",
+          "bytes": 115588,
+          "sha256": "0889c39261cef0e54d54af1fee621ecc290cd1bf383eb4b0f783cc66910459d7"
+        },
+        {
+          "name": "eden-RW5-0.1.3-图标.png",
+          "bytes": 74060,
+          "sha256": "aa9ea26b06c344f4a6ac1c09b81eece990daebb5808b17269f719ed933e34292"
+        },
+        {
+          "name": "eden-RW5-0.1.3-字卡实屏.png",
+          "bytes": 24202,
+          "sha256": "b5a888bec9f96efb941acd981bccd1874d15fe66dbd7ee8eb763c3ee78e6f4c2"
+        },
+        {
+          "name": "eden-RW5-0.1.3-字卡对比.png",
+          "bytes": 41626,
+          "sha256": "a9e34c1b720ca83b705ba9c4a932948cd4da28558d67d2c07056bb68f93cccb9"
+        },
+        {
+          "name": "eden-RW5-0.1.3-安装说明.md",
+          "bytes": 3683,
+          "sha256": "c0017d8eab16591b5fd311422e9a343645a30a867f88190efc763c21e8f7445d"
+        },
+        {
+          "name": "eden-RW5-0.1.3-标题.png",
+          "bytes": 177270,
+          "sha256": "39a946a8f50f680bc30fd76a5a99ef7b92c0dcb93400e58d8c7f63bdb93e8ab9"
+        },
+        {
+          "name": "eden-RW5-0.1.3-检查报告.json",
+          "bytes": 18920,
+          "sha256": "fd918bb4832f1623568c7d342e93c5b97b963286207eda24f08fd9c397f137a0"
+        },
+        {
+          "name": "eden-RW5-0.1.3-源码.zip",
+          "bytes": 14525489,
+          "sha256": "54486321f6b7bbc990b43a815ce7209c106aea0356273ecfb6a22c945459afd1"
+        },
+        {
+          "name": "eden-RW5-0.1.3-画质对比.png",
+          "bytes": 1953505,
+          "sha256": "6af4072eac628f99989da06a09615a80c08bb04a5ae746c9fc5777c38fc9592f"
+        },
+        {
+          "name": "eden-RW5-0.1.3-画面与镜头说明.md",
+          "bytes": 2553,
+          "sha256": "4b44189eb7e7a74b78cac4e7b34fc78b456f5f8992724f511d570aa983662cef"
+        },
+        {
+          "name": "eden-RW5-0.1.3-自动播放菜单.png",
+          "bytes": 27573,
+          "sha256": "2a14ccdc8214dd87d25715502d979981c840ff4ffd3c7a71d22547a7857cbb21"
+        },
+        {
+          "name": "eden-RW5-0.1.3-鉴赏优化说明.md",
+          "bytes": 3778,
+          "sha256": "81cb992ff7da81460a9d6129bcf09529e86a4c72d57591dfd061154683d97588"
+        },
+        {
+          "name": "eden-RW5-0.1.3-鉴赏列表.png",
+          "bytes": 128450,
+          "sha256": "588dc07b213df2c5857809af27a89ce1a706d1ecbcf498e39e57e943dec59cdf"
+        },
+        {
+          "name": "eden-RW5-0.1.3-鉴赏实屏.png",
+          "bytes": 66178,
+          "sha256": "2b08e28ccd402396699cb7d574b16d59509436a6fd53c9704613a006cef27687"
+        },
+        {
+          "name": "eden-RW5-0.1.3-长字卡实屏.png",
+          "bytes": 44662,
+          "sha256": "a8a92aa942583094595ded418e0284e9698d4dfce0176370b87600a19f7a6835"
+        },
+        {
+          "name": "eden-RW5-0.1.3.bin",
+          "bytes": 10106929,
+          "sha256": "f22c735e07453e4d7e5a261ba9855244c14e179625cc282720ebabfc60898f81"
+        },
+        {
+          "name": "eden-RW5-0.1.3.rpk",
+          "bytes": 10106929,
+          "sha256": "f22c735e07453e4d7e5a261ba9855244c14e179625cc282720ebabfc60898f81"
+        }
+      ]
+    }
+  ]
+}
