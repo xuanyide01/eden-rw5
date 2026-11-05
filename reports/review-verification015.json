@@ -1,0 +1,23 @@
+{
+  "method": "identical width, height and decoded RGB after composing the displayed base and patch",
+  "beforeEntries": 2341,
+  "afterEntries": 2075,
+  "removedEntries": 266,
+  "withinGroupDuplicates": 254,
+  "betweenGroupDuplicates": 12,
+  "beforeGroups": 295,
+  "afterGroups": 294,
+  "removedGroups": [
+    "CG · ev_add02_up04"
+  ],
+  "version": "0.1.5",
+  "packageSHA256": "8ddeecd7eb5ee8f39635aaf330e3eebf133950070b48b08db7640fae581a43a8",
+  "baselineSHA256": "121c1b645282735a3e7ea558b3946be9bdccf5bc10b545cbd0870aa56a53ca89",
+  "unchangedApplicationID": "com.codex.eden.rw5",
+  "unchangedNonGalleryResources": 820,
+  "unchangedStoryChunks": 28,
+  "identicalDistinctPictureSetAndOrder": true,
+  "duplicatePackagedFiles": 0,
+  "physicalDeviceTested": false,
+  "platformReviewPassed": null
+}

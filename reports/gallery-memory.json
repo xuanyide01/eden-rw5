@@ -1,104 +1,104 @@
 {
-  "groups": 295,
-  "variants": 2341,
+  "groups": 294,
+  "variants": 2075,
   "pages": 74,
   "pageSize": 4,
   "pageFiles": [
     {
       "file": "0.txt",
-      "bytes": 1828,
+      "bytes": 1678,
       "groups": 4,
-      "variants": 66
+      "variants": 60
     },
     {
       "file": "1.txt",
-      "bytes": 1556,
+      "bytes": 1356,
       "groups": 4,
-      "variants": 55
+      "variants": 47
     },
     {
       "file": "2.txt",
-      "bytes": 1146,
+      "bytes": 921,
       "groups": 4,
-      "variants": 39
+      "variants": 30
     },
     {
       "file": "3.txt",
-      "bytes": 1806,
+      "bytes": 1506,
       "groups": 4,
-      "variants": 65
+      "variants": 53
     },
     {
       "file": "4.txt",
-      "bytes": 2531,
-      "groups": 4,
-      "variants": 94
-    },
-    {
-      "file": "5.txt",
-      "bytes": 2906,
-      "groups": 4,
-      "variants": 109
-    },
-    {
-      "file": "6.txt",
-      "bytes": 1206,
-      "groups": 4,
-      "variants": 41
-    },
-    {
-      "file": "7.txt",
       "bytes": 1781,
       "groups": 4,
       "variants": 64
     },
     {
-      "file": "8.txt",
-      "bytes": 2106,
+      "file": "5.txt",
+      "bytes": 2006,
       "groups": 4,
-      "variants": 77
+      "variants": 73
+    },
+    {
+      "file": "6.txt",
+      "bytes": 1106,
+      "groups": 4,
+      "variants": 37
+    },
+    {
+      "file": "7.txt",
+      "bytes": 1506,
+      "groups": 4,
+      "variants": 53
+    },
+    {
+      "file": "8.txt",
+      "bytes": 1856,
+      "groups": 4,
+      "variants": 67
     },
     {
       "file": "9.txt",
-      "bytes": 2260,
+      "bytes": 1885,
       "groups": 4,
-      "variants": 83
+      "variants": 68
     },
     {
       "file": "10.txt",
-      "bytes": 3135,
+      "bytes": 2485,
       "groups": 4,
-      "variants": 118
+      "variants": 92
     },
     {
       "file": "11.txt",
-      "bytes": 2035,
+      "bytes": 1860,
       "groups": 4,
-      "variants": 74
+      "variants": 67
     },
     {
       "file": "12.txt",
-      "bytes": 4510,
+      "bytes": 2960,
       "groups": 4,
-      "variants": 173
+      "variants": 111
     },
     {
       "file": "13.txt",
-      "bytes": 3185,
+      "bytes": 2860,
       "groups": 4,
-      "variants": 120
+      "variants": 107
     },
     {
       "file": "14.txt",
-      "bytes": 1085,
+      "bytes": 935,
       "groups": 4,
-      "variants": 36
+      "variants": 30
     },
     {
       "file": "15.txt",
-      "bytes": 753,
+      "bytes": 703,
       "groups": 4,
-      "variants": 24
+      "variants": 22
     },
     {
       "file": "16.txt",
@@ -120,9 +120,9 @@
     },
     {
       "file": "19.txt",
-      "bytes": 1071,
+      "bytes": 1046,
       "groups": 4,
-      "variants": 38
+      "variants": 37
     },
     {
       "file": "20.txt",
@@ -174,9 +174,9 @@
     },
     {
       "file": "28.txt",
-      "bytes": 396,
+      "bytes": 346,
       "groups": 4,
-      "variants": 11
+      "variants": 9
     },
     {
       "file": "29.txt",
@@ -222,9 +222,9 @@
     },
     {
       "file": "36.txt",
-      "bytes": 571,
+      "bytes": 546,
       "groups": 4,
-      "variants": 18
+      "variants": 17
     },
     {
       "file": "37.txt",
@@ -276,9 +276,9 @@
     },
     {
       "file": "45.txt",
-      "bytes": 546,
+      "bytes": 521,
       "groups": 4,
-      "variants": 17
+      "variants": 16
     },
     {
       "file": "46.txt",
@@ -294,9 +294,9 @@
     },
     {
       "file": "48.txt",
-      "bytes": 396,
+      "bytes": 346,
       "groups": 4,
-      "variants": 11
+      "variants": 9
     },
     {
       "file": "49.txt",
@@ -378,9 +378,9 @@
     },
     {
       "file": "62.txt",
-      "bytes": 321,
+      "bytes": 296,
       "groups": 4,
-      "variants": 8
+      "variants": 7
     },
     {
       "file": "63.txt",
@@ -396,69 +396,65 @@
     },
     {
       "file": "65.txt",
-      "bytes": 274,
+      "bytes": 269,
       "groups": 4,
       "variants": 4
     },
     {
       "file": "66.txt",
-      "bytes": 253,
-      "groups": 4,
-      "variants": 4
-    },
-    {
-      "file": "67.txt",
       "bytes": 254,
       "groups": 4,
       "variants": 4
     },
     {
-      "file": "68.txt",
-      "bytes": 379,
+      "file": "67.txt",
+      "bytes": 253,
       "groups": 4,
-      "variants": 9
+      "variants": 4
+    },
+    {
+      "file": "68.txt",
+      "bytes": 500,
+      "groups": 4,
+      "variants": 14
     },
     {
       "file": "69.txt",
-      "bytes": 612,
-      "groups": 4,
-      "variants": 19
-    },
-    {
-      "file": "70.txt",
-      "bytes": 787,
-      "groups": 4,
-      "variants": 26
-    },
-    {
-      "file": "71.txt",
       "bytes": 637,
       "groups": 4,
       "variants": 20
     },
     {
-      "file": "72.txt",
+      "file": "70.txt",
+      "bytes": 837,
+      "groups": 4,
+      "variants": 28
+    },
+    {
+      "file": "71.txt",
       "bytes": 687,
       "groups": 4,
       "variants": 22
     },
     {
+      "file": "72.txt",
+      "bytes": 487,
+      "groups": 4,
+      "variants": 14
+    },
+    {
       "file": "73.txt",
-      "bytes": 510,
-      "groups": 3,
-      "variants": 16
+      "bytes": 401,
+      "groups": 2,
+      "variants": 13
     }
   ],
-  "maxReadBytes": 4510,
+  "maxReadBytes": 2960,
   "listImageWidgets": 1,
   "maxSimultaneousCGImages": 2,
   "maxLayerPixels": 143360,
   "maxTwoLayerRGBABytes": 1146880,
   "realDeviceRetestPending": true,
-  "oldCatalogReadBytes": 251842,
-  "catalogReadReductionPercent": 98.21,
-  "oldListMaxLayers": 8,
-  "sourceImageBudgetExcludesRuntimeOverheads": true,
   "listStyle": "four-picture grid",
   "firstVariantPreviewOnly": true,
   "previewSourceRGBABytes": 145728,

@@ -1,0 +1,11 @@
+{
+  "version": "0.1.5",
+  "device": "REDMI Watch 5",
+  "reportedDate": "2026-11-05",
+  "reportedBy": "maintainer",
+  "evidenceType": "user-reported physical-device test",
+  "result": "passed",
+  "specificTestCoverageReported": false,
+  "packageSHA256": "8ddeecd7eb5ee8f39635aaf330e3eebf133950070b48b08db7640fae581a43a8",
+  "platformReviewStatus": "not_submitted"
+}

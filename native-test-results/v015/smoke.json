@@ -1,0 +1,15 @@
+{
+  "result": "passed",
+  "packageSha256": "8ddeecd7eb5ee8f39635aaf330e3eebf133950070b48b08db7640fae581a43a8",
+  "runtime": "generic Vela Watch 5 emulator",
+  "physicalDeviceTested": false,
+  "checks": [
+    "install",
+    "startup",
+    "294 groups and 2075 CG entries",
+    "page 1 to 2 and back",
+    "open group and cycle variant",
+    "return to title",
+    "start story"
+  ]
+}

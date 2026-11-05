@@ -1,8 +1,8 @@
 {
   "package": "com.codex.eden.rw5",
   "name": "eden",
-  "versionName": "0.1.4",
-  "versionCode": 5,
+  "versionName": "0.1.5",
+  "versionCode": 6,
   "minPlatformVersion": 1000,
   "minAPILevel": 1,
   "icon": "/common/logo.png",

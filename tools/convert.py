@@ -121,9 +121,6 @@ for name in sorted(full):
             m=re.match(r'(maisou_bg\d+)',stem);group=m[1];label='背景 '+group.removeprefix('maisou_bg')
         else:group=stem;label='CG · '+stem
     gallery.append({'image':full[name],'source':name,'group':group,'label':label})
-write(REPORT/'gallery-source.json',gallery)
-from gallery_pack import packGallery
-packGallery(COMMON,gallery,REPORT)
 tiles=storeImages.packAtlases()
 catalog={'game':'eden','initial':1,'flowScene':1,'routes':[{'name':'正篇','scenes':list(range(1,22))}],
          'chapters':[{'id':chapter_ids[n],'route':0,'name':('序章' if n=='A001' else '终章' if n=='D001' else '第 '+str(chapter_ids[n]-1)+' 章')} for n in order],
@@ -149,6 +146,13 @@ for old in OUT.iterdir():
     if old.suffix in ['.jpg','.png'] and old.name not in storeImages.files:old.unlink()
 report={'scenes':len(order),'sourceMessageCount':len(sourceProof),'sourceCommands':dict(commands),'playerChoices':0,'chapterOrder':order,'allJumpLabelsResolved':True,'warnings':warnings,'omittedMovies':movies,
         'imageWidth':SIZE,'jpegQuality':QUALITY-4,'uniqueFrameCount':len(assets),'atlasImageFiles':len(storeImages.files),'jpegAtlasFiles':len(list(OUT.glob('*.jpg'))),'losslessTextCardFiles':len(list(OUT.glob('*.png'))),'nativeTextCards':len(cardContent),'nativeTextCardOccurrences':sum(x['source'] in cardContent for x in cameraProof),'sourcePNGCount':len(full),'galleryVariants':len(gallery),'galleryGroups':len({g['group'] for g in gallery}),'imageBytes':sum(p.stat().st_size for p in OUT.iterdir() if p.suffix in ['.jpg','.png']),'sourceEXEExecuted':False}
+from gallery_dedupe import dedupe_gallery
+from gallery_pack import packGallery
 from gallery_thumbnails import build_thumbnails
+write(REPORT/'gallery-source-before-dedupe.json',gallery)
+gallery=dedupe_gallery(COMMON,gallery,REPORT)
+write(REPORT/'gallery-source.json',gallery)
+galleryReport=packGallery(COMMON,gallery,REPORT)
+report.update(galleryVariants=galleryReport['variants'],galleryGroups=galleryReport['groups'])
 build_thumbnails(ROOT)
 write(REPORT/'conversion.json',report);print(stable(report),flush=True)
